@@ -18,7 +18,7 @@ This is a personal project where I put together traffic data on the [Seoul Metro
 
 ## Resume
 
-
+[My resume](https://github.com/gh-koh/gh-koh/blob/main/James%20Koh%20Resume.pdf)
 
 ## Contact
 
