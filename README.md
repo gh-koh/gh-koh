@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello. My name is James Koh and this is my repository where I showcase various projects that demonstrate my abilities in data analysis and coding.
+Hello. My name is James Koh, and this is my repository where I showcase various projects that demonstrate my abilities in data analysis and coding.
 
 ## Projects
 
